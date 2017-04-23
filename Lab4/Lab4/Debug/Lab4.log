@@ -1,0 +1,6 @@
+﻿  NineAlmondGame.cpp
+\\warehouse2.seasad.wustl.edu\home\cmarquardt\my documents\visual studio 2015\projects\lab4\lab4\ninealmondgame.cpp(308): warning C4018: '<': signed/unsigned mismatch
+\\warehouse2.seasad.wustl.edu\home\cmarquardt\my documents\visual studio 2015\projects\lab4\lab4\ninealmondgame.cpp(316): warning C4018: '<': signed/unsigned mismatch
+\\warehouse2.seasad.wustl.edu\home\cmarquardt\my documents\visual studio 2015\projects\lab4\lab4\ninealmondgame.cpp(278): warning C4715: 'NineAlmondsGame::turn': not all control paths return a value
+  Lab4.vcxproj -> \\warehouse2.seasad.wustl.edu\home\cmarquardt\My Documents\Visual Studio 2015\Projects\Lab4\Debug\Lab4.exe
+  Lab4.vcxproj -> \\warehouse2.seasad.wustl.edu\home\cmarquardt\My Documents\Visual Studio 2015\Projects\Lab4\Debug\Lab4.pdb (Full PDB)
